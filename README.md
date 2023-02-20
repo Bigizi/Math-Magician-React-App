@@ -82,7 +82,7 @@ Clone this repository to your desired folder using the command below:
 
 ```bash
 $ git clone https://github.com/Bigizi/Math-Magician-React-App
-$ cd Restaurant-app
+$ cd Math-Magician-React-App
 ```
 
 ### Install
