@@ -1,13 +1,8 @@
 import React from 'react';
-import Content from './Content';
+import Button from './Button';
 
 const Calculator = () => (
-  <div className="container">
-    <form>
-      <input type="text" value="" placeholder="0" />
-    </form>
-    <Content />
-  </div>
+  <Button />
 );
 
 export default Calculator;
