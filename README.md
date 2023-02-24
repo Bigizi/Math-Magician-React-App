@@ -135,7 +135,7 @@ $ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [coming soon]().
+Feel free to check the [Issues](https://github.com/Bigizi/Math-Magician-React-App/issues/4).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
