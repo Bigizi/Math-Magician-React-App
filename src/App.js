@@ -1,8 +1,8 @@
 import './App.css';
 import { Link, Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
-import Home from './components/pages/Home';
-import Quote from './components/pages/Quote';
+import Home from './components/Home';
+import Quote from './components/Quote';
 
 function App() {
   return (

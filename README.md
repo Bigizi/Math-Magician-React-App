@@ -6,22 +6,26 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-  - [🚀 Live Demo](#live-demo)
-  - [🚀 Loom Presentation](#loom-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Math-Magician-React Project ](#-math-magician-react-project-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [LOOM PROJECT PRESENTATION ](#loom-project-presentation-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Clone this repository](#clone-this-repository)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run project](#run-project)
+    - [Open page in browser](#open-page-in-browser)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -118,7 +122,12 @@ $ npm start
 👤 **Bigizi Nduwayo Crispin**
 
 - GitHub: [@Crispin](https://github.com/Bigizi)
-- LinkedIn: [@Crispin](https://linkedin.com/in/jonas-wullah)
+- LinkedIn: [@Crispin](https://linkedin.com/)
+  
+👤 **Racheal Appiah-kubi**
+
+- GitHub: [@Crispin](https://github.com/coderacheal)
+- LinkedIn: [@Crispin](https://linkedin.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

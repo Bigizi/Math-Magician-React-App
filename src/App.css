@@ -8,6 +8,8 @@
 .App {
   display: flex;
   flex-direction: column;
+  background: rgb(241, 194, 106);
+  height: 100vh;
 }
 
 .container {
