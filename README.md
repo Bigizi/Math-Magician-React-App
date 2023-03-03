@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="">Coming Soon</a>
+- <a href="">https://mathmagi.onrender.com/</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
